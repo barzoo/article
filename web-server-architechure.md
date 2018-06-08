@@ -127,7 +127,7 @@ else:
 - Control - 业务逻辑
 - View - 表达
 
-在 Django web 应用中，model就是第一层，views （包含form, template等）就是第三层，对于业务逻辑一般都是根据实际业务的要求所编写的。不够，Django 还是对最常用的 CRUD 操作提供了模板式的通用业务逻辑，来简化这些部分业务的处理。
+在 Django web 应用中，model就是第一层，views （包含form, template等）就是第三层，对于业务逻辑一般都是根据实际业务的要求所编写的。不过，Django 还是对最常用的 CRUD 操作提供了模板式的通用业务逻辑，来简化这些部分业务的处理。
 
 ### 其他应用
 
